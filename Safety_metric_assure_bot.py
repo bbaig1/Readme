@@ -1,6 +1,6 @@
 ## THIS Project "Assure BOT for Metrics" sends automated Emails for Different metrics at Metric-Location level. 
 ## It has a feature to add n number of metrics in a google sheet, add subscribers in subcribers sheet and 
-it will automatically send alert to each indivisual based on the metric and location.
+## it will automatically send alert to each indivisual based on the metric and location.
 
 import pypostmaster
 import pandas as pd
