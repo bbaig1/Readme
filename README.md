@@ -1,4 +1,4 @@
-# Hi there, I'm Bilal Baig 👋
+# Hi there, I'm Basil Baig 👋
 
 Welcome to my GitHub!  
 I'm a **Senior Analyst at UBER EXT** with a passion for turning data into actionable insights and impactful solutions.
