@@ -1,7 +1,7 @@
 # Hi there, I'm Basil Baig 👋
 
 Welcome to my GitHub!  
-I'm a **Senior Analyst at UBER EXT** with a passion for turning data into actionable insights and impactful solutions.
+I'm a **Senior Analyst at UBER EXT Having 5 years of Work Experience In Data Science and Analytics** with a passion for turning data into actionable insights and impactful solutions.
 
 ---
 
@@ -19,10 +19,10 @@ I'm a **Senior Analyst at UBER EXT** with a passion for turning data into action
   Predicting and preventing customer attrition using advanced machine learning and statistical analysis.
 
 - **Safety Metrics Assure Bot:**  
-  Automated bot for real-time safety metrics monitoring and alerting, helping drive a safer experience for users.
+  Automated bot for real-time 50+ safety metrics monitoring and alerting, helping drive a safer experience for Uber users
 
 - **Market Basket Analyses:**  
-  Deep-dive analytics into customer purchasing patterns to optimize offerings and boost business growth.
+  Deep-dive analytics into customer purchasing patterns using cross selling and upselling techniques to optimize offerings and boost business growth.
 
 ---
 
@@ -44,8 +44,7 @@ When I’m not crunching data, you’ll find me smashing it at the table tennis 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
-[![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basil-baig-7733a5154/)
 [![Personal Website](https://img.shields.io/badge/Website-24292f?style=flat&logo=github)](https://yourwebsite.com)
 
 <!--
