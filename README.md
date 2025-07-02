@@ -1,7 +1,7 @@
 # Hi there, I'm Basil Baig 👋
 
 Welcome to my GitHub!  
-I'm a **Senior Analyst at UBER EXT Having 5 years of Work Experience In Data Science and Analytics** with a passion for turning data into actionable insights and impactful solutions.
+I'm a **Senior Data Analyst at UBER EXT Having 5 years of Work Experience In Data Science and Analytics** with a passion for turning data into actionable insights and impactful solutions.
 
 ---
 
